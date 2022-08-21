@@ -1,4 +1,4 @@
-- Hi, I’m Dario.
-- I’m interested in contributing something to the Information Security Community.
-- I’m currently in college studying cybersecurity and learning programming languages on my own time.
-- I’m looking to collaborate in the future, when I sharpen my skills.
+- Hi, I’m Dario. 
+- Recently graduated with an associate of science in Cybersecurity. 
+- Working on my Bachelor's of Science in Computer Science.
+- I’m looking to collaborating in the future, when I sharpen my skills.
