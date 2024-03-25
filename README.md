@@ -1,4 +1,8 @@
-- Hi, I’m Dario. 
-- Recently graduated with an associate of science in Cybersecurity. 
-- Working on my Bachelor's of Science in Computer Science.
-- I’m looking to collaborating in the future, when I sharpen my skills.
+## Hello, I'm Dario!
+
+I'm a Computer Science studnet with a deep passion for software development and information security.
+
+Currently, I'm on a mission to earn my Bachelor's of Science in Computer Science.
+
+I'm eager to team up with like-minded individuals to push boundaries and grow together.
+
